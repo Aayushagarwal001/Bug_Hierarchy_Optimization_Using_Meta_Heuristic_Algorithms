@@ -1,0 +1,2 @@
+# Bug_Hierarchy_Optimization_Using_Meta_Heuristic_Algorithms
+Bug Optimization System: An automated solution utilizing meta-heuristic feature selection algorithms to optimize bug triage in software development projects. This system enhances organizational efficiency by streamlining bug prioritization, reducing the time and effort required for bug resolution, and ultimately improving software quality.
